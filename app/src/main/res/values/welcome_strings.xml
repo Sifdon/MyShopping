@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_title_1">Shopping list</string>
+    <string name="welcome_1">store your shopping list on the server</string>
+    <string name="welcome_title_2">Store</string>
+    <string name="welcome_2">Shop in different stores</string>
+</resources>
