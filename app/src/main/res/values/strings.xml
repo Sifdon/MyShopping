@@ -4,4 +4,7 @@
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
+
+    <string name="admob_app_id">ca-app-pub-4983696768930692~1634695622</string>
+    <string name="banner_home_footer">ca-app-pub-4983696768930692/4783603147</string>
 </resources>
